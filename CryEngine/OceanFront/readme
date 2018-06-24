@@ -1,0 +1,5 @@
+This folder hosts the renders of my scene "Ocean Front". Originally rendered at 4K in CryEngine V.
+
+With this environment, I wanted to demonstrate the power of the environment editor and create a sky that is unique from anything we have seen with the engine. 
+
+Volumetric Clouds and Fog were actiavted through the CryEngine console (r_volumetricclouds 1 & e_volumetricfog 1) in order to create a unique skybox.
